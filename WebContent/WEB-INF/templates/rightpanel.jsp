@@ -1,0 +1,1 @@
+<h2>Right Panel for Advertisement</h2>
